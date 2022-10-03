@@ -1,16 +1,8 @@
-<<<<<<< HEAD
-
-
-
-
-
-
-
 i managed to do this
 
 i work in git
-=======
+
 line no 1
 open (
 syntax
->>>>>>> 8fd25f637d82a62ac207ca96a789024ac47cb0ac
+
